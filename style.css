@@ -33,11 +33,11 @@ img {
 h1 {
     color: hsl(218, 44%, 22%);
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
-    font-weight: 200;
+    font-weight: 400;
 }
