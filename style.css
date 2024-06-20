@@ -1,0 +1,43 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+}
+
+.qr-wrapper {
+    padding-top: 15px;
+}
+
+img {
+    display: block;
+    width: 288px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.text-wrapper {
+    padding: 10px 30px;
+    text-align: center;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 200;
+}
